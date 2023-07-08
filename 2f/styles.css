@@ -1,0 +1,28 @@
+a {
+  color: rgb(0, 113, 133);
+  font-size: 18px;
+  font-style: underlined;
+}
+h3 {
+  color: rgb(0, 118, 0);
+}
+p {
+  font-size: 18px;
+}
+.btn {
+  cursor: pointer;
+  margin: 3.5px 12px 3.5px 0px;
+  border: none;
+  width: 150px;
+  height: 36px;
+  border-radius: 18px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.add-to-cart-btn {
+  background-color: rgb(255, 216, 20);
+}
+.buy-now-btn {
+  background-color: rgb(255, 164, 28);
+}

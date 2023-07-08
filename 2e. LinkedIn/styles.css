@@ -1,0 +1,22 @@
+.btn {
+  cursor: pointer;
+  margin: 3.5px;
+  padding: 10px 23px;
+  border-radius: 18px;
+}
+
+.apply-btn {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-weight: bold;
+}
+.save-btn {
+  background-color: white;
+  border-color: rgb(10, 102, 194);
+  border-width: 1px;
+  color: rgb(10, 102, 194);
+  font-weight: bold;
+}
